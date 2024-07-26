@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="title">
       <p >初めてのnext.js</p>
-      <a href="page2">リンク</a>
+      <a href="page2">リン区だよ</a>
     </div>
 
   );
