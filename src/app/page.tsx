@@ -1,9 +1,12 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+import { disconnect } from "process";
 
 export default function Home() {
   return (
-    <p className="">初めてのnext.js</p>
-    
+    <div className="title">
+      <p >初めてのnext.js</p>
+    </div>
+
   );
 }
